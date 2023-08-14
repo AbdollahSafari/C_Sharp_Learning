@@ -1,0 +1,24 @@
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\bin\Debug\net6.0\Dtat.deps.json
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\bin\Debug\net6.0\Dtat.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\bin\Debug\net6.0\Dtat.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.csproj.AssemblyReference.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Dtat\bin\Debug\net6.0\Dtat.deps.json
+D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Dtat\bin\Debug\net6.0\Dtat.dll
+D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Dtat\bin\Debug\net6.0\Dtat.pdb
+D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Dtat\obj\Debug\net6.0\Dtat.csproj.AssemblyReference.cache
+D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Dtat\obj\Debug\net6.0\Dtat.dll
+D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Dtat\obj\Debug\net6.0\Dtat.pdb
+D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Dtat\obj\Debug\net6.0\ref\Dtat.dll
