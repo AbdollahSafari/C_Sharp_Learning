@@ -16,7 +16,7 @@ internal static class Program
 		// **************************************************
 
 		// **************************************************
-		var mainForm = new StartupForm();
+		var mainForm = new LoginForm();
 
 		System.Windows.Forms.Application.Run(mainForm: mainForm);
 

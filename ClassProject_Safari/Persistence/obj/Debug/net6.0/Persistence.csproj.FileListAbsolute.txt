@@ -28,3 +28,18 @@ D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - 
 D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Persistence\obj\Debug\net6.0\Persistence.pdb
 D:\Learning_C#\C# Learning Projectts - Tasdighi\_FROM_DT_TO_ALL\MyApplication - Template_1402_05_19_VERSION_1_3\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Persistence\obj\Debug\net6.0\ref\Persistence.dll
