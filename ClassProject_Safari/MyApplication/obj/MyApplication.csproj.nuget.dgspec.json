@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\MyApplication\\MyApplication.csproj": {}
+    "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\MyApplication\\MyApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj": {
+    "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Abed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Abdollah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Abed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdollah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,24 +59,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj": {
+    "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj",
+        "projectUniqueName": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj",
         "projectName": "Dtat",
-        "projectPath": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj",
-        "packagesPath": "C:\\Users\\Abed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\obj\\",
+        "projectPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj",
+        "packagesPath": "C:\\Users\\Abdollah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Abed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdollah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -86,7 +85,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -123,24 +121,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\MyApplication\\MyApplication.csproj": {
+    "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\MyApplication\\MyApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\MyApplication\\MyApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\MyApplication\\MyApplication.csproj",
         "projectName": "MyApplication",
-        "projectPath": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\MyApplication\\MyApplication.csproj",
-        "packagesPath": "C:\\Users\\Abed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\MyApplication\\obj\\",
+        "projectPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\MyApplication\\MyApplication.csproj",
+        "packagesPath": "C:\\Users\\Abdollah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\MyApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Abed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdollah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -149,21 +147,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj"
+              "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj": {
-                "projectPath": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj"
+              "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj": {
+                "projectPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj"
               },
-              "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Persistence\\Persistence.csproj"
+              "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -196,24 +193,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\Abed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Abdollah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Abed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdollah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -222,15 +219,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Abed\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj"
+              "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Domain\\Domain.csproj"
               }
             }
           }
@@ -266,7 +262,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

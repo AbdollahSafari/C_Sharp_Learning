@@ -8,13 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MyApplication
+namespace MyApplication;
+
+public partial class LoginForm : Form
 {
-    public partial class LoginForm : Form
+    public LoginForm()
     {
-        public LoginForm()
-        {
-            InitializeComponent();
-        }
+        InitializeComponent();
     }
 }

@@ -34,3 +34,14 @@ C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\obj\Deb
 C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\obj\Debug\net6.0\refint\Dtat.dll
 C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\obj\Debug\net6.0\Dtat.pdb
 C:\Users\Abed\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+C:\Users\Abdollah\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\bin\Debug\net6.0\Dtat.deps.json
+C:\Users\Abdollah\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\bin\Debug\net6.0\Dtat.dll
+C:\Users\Abdollah\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\bin\Debug\net6.0\Dtat.pdb
+C:\Users\Abdollah\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdollah\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+C:\Users\Abdollah\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+C:\Users\Abdollah\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+C:\Users\Abdollah\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\obj\Debug\net6.0\Dtat.dll
+C:\Users\Abdollah\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+C:\Users\Abdollah\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\obj\Debug\net6.0\Dtat.pdb
+C:\Users\Abdollah\Documents\GitHub\C_Sharp_Learning\ClassProject_Safari\Dtat\obj\Debug\net6.0\ref\Dtat.dll
