@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace MyApplication;
 
-public partial class LoginForm : Form
+public partial class LoginForm : Infrastructure.BaseForm
 {
     public LoginForm()
     {

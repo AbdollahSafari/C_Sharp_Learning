@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj": {}
+    "D:\\Learning_C#\\C# Learning Projectts - Tasdighi\\Final Class Project\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj": {
+    "D:\\Learning_C#\\C# Learning Projectts - Tasdighi\\Final Class Project\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj",
+        "projectUniqueName": "D:\\Learning_C#\\C# Learning Projectts - Tasdighi\\Final Class Project\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj",
         "projectName": "Dtat",
-        "projectPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj",
+        "projectPath": "D:\\Learning_C#\\C# Learning Projectts - Tasdighi\\Final Class Project\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\Dtat.csproj",
         "packagesPath": "C:\\Users\\Abdollah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdollah\\Documents\\GitHub\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\obj\\",
+        "outputPath": "D:\\Learning_C#\\C# Learning Projectts - Tasdighi\\Final Class Project\\C_Sharp_Learning\\ClassProject_Safari\\Dtat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
