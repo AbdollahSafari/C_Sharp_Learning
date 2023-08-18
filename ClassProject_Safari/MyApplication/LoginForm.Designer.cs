@@ -121,11 +121,9 @@ partial class LoginForm
         Controls.Add(usernameTextBox);
         Controls.Add(passwordLabel);
         Controls.Add(usernameLabel);
-        Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
         MaximumSize = new System.Drawing.Size(800, 151);
         MinimumSize = new System.Drawing.Size(512, 151);
         Name = "LoginForm";
-        StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
         Text = "Login";
         ResumeLayout(false);
         PerformLayout();

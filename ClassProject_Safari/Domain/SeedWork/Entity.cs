@@ -1,5 +1,7 @@
 ﻿namespace Domain.SeedWork;
-
+/// <summary>
+/// When you define "abstract" class, it means you can not make new object of that class.
+/// </summary>
 public abstract class Entity : object
 {
 	public Entity() : base()
