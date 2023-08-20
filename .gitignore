@@ -3,10 +3,5 @@ ClassProject_Safari/.vs/MyApplication/v17/.futdcache.v2
 ClassProject_Safari/.vs/ProjectEvaluation/myapplication.metadata.v7.bin
 ClassProject_Safari/.vs/ProjectEvaluation/myapplication.projects.v7.bin
 .vs
-obj
-bin
-bin
-bin
-obj
-bin
-obj
+obj/
+bin/
