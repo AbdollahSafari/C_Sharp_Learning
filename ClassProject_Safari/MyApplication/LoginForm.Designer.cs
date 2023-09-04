@@ -71,6 +71,7 @@ partial class LoginForm
         passwordTextBox.Name = "passwordTextBox";
         passwordTextBox.Size = new System.Drawing.Size(394, 27);
         passwordTextBox.TabIndex = 3;
+        passwordTextBox.UseSystemPasswordChar = true;
         // 
         // loginButton
         // 
@@ -80,6 +81,7 @@ partial class LoginForm
         loginButton.TabIndex = 4;
         loginButton.Text = "&Login";
         loginButton.UseVisualStyleBackColor = true;
+        loginButton.Click += loginButton_Click;
         // 
         // resetButton
         // 
@@ -89,6 +91,7 @@ partial class LoginForm
         resetButton.TabIndex = 5;
         resetButton.Text = "&Reset";
         resetButton.UseVisualStyleBackColor = true;
+        resetButton.Click += resetButton_Click;
         // 
         // registerButton
         // 
@@ -98,6 +101,7 @@ partial class LoginForm
         registerButton.TabIndex = 6;
         registerButton.Text = "Re&gister";
         registerButton.UseVisualStyleBackColor = true;
+        registerButton.Click += registerButton_Click;
         // 
         // exitButton
         // 
@@ -110,8 +114,10 @@ partial class LoginForm
         // 
         // LoginForm
         // 
+        AcceptButton = loginButton;
         AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
         AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+        CancelButton = exitButton;
         ClientSize = new System.Drawing.Size(494, 104);
         Controls.Add(exitButton);
         Controls.Add(registerButton);

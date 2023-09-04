@@ -16,4 +16,17 @@ public partial class RegisterForm : Infrastructure.BaseForm
     {
         InitializeComponent();
     }
+
+    private void resetButton_Click(object sender, EventArgs e)
+    {
+        ResetForm();
+    }
+
+    private void ResetForm()
+    {
+        usernameTextBox.Text = string.Empty;
+        passwordTextBox.Text = string.Empty;
+        fullNameTextBox.Text = string.Empty;
+        usernameTextBox.Focus();
+    }
 }

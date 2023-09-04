@@ -30,4 +30,7 @@ public static class Utility : object
 
 		return text;
 	}
+
+    public static Domain.User? AauthenticatedUser;
+
 }
