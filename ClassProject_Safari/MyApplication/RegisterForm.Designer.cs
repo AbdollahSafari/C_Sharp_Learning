@@ -100,6 +100,7 @@
             registerButton.TabIndex = 6;
             registerButton.Text = "Re&gister";
             registerButton.UseVisualStyleBackColor = true;
+            registerButton.Click += registerButton_Click;
             // 
             // resetButton
             // 
@@ -119,6 +120,7 @@
             loginButton.TabIndex = 8;
             loginButton.Text = "&Login";
             loginButton.UseVisualStyleBackColor = true;
+            loginButton.Click += loginButton_Click;
             // 
             // exitButton
             // 
@@ -128,6 +130,7 @@
             exitButton.TabIndex = 9;
             exitButton.Text = "E&xit";
             exitButton.UseVisualStyleBackColor = true;
+            exitButton.Click += exitButton_Click;
             // 
             // RegisterForm
             // 

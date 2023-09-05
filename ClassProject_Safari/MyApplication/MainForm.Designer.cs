@@ -69,6 +69,7 @@
             changePasswordToolStripMenuItem.Name = "changePasswordToolStripMenuItem";
             changePasswordToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             changePasswordToolStripMenuItem.Text = "&Change Password";
+            changePasswordToolStripMenuItem.Click += changePasswordToolStripMenuItem_Click;
             // 
             // toolStripSeparator1
             // 
@@ -80,12 +81,14 @@
             logoutToolStripMenuItem.Name = "logoutToolStripMenuItem";
             logoutToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             logoutToolStripMenuItem.Text = "&Logout";
+            logoutToolStripMenuItem.Click += logoutToolStripMenuItem_Click;
             // 
             // exitToolStripMenuItem
             // 
             exitToolStripMenuItem.Name = "exitToolStripMenuItem";
             exitToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             exitToolStripMenuItem.Text = "E&xit";
+            exitToolStripMenuItem.Click += exitToolStripMenuItem_Click;
             // 
             // adminToolStripMenuItem
             // 

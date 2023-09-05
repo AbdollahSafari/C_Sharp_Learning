@@ -27,10 +27,19 @@ public partial class LoginForm : Infrastructure.BaseForm
         passwordTextBox.Text =
             Infrastructure.Utility.FixText(passwordTextBox.Text);
 
-        if (passwordTextBox.Text == string.Empty || usernameTextBox.Text == string.Empty)
+        if (usernameTextBox.Text == string.Empty || passwordTextBox.Text == string.Empty)
         {
-            var errorMessage = "Username and Password is required!";
+            var errorMessage = "Username and Password are required!";
             System.Windows.Forms.MessageBox.Show(errorMessage);
+
+            if (usernameTextBox.Text == string.Empty)
+            {
+                usernameTextBox.Focus();
+            }
+            else
+            {
+                passwordTextBox.Focus();
+            }
         }
         try
         {

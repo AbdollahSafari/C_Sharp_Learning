@@ -80,6 +80,7 @@
             saveButton.TabIndex = 4;
             saveButton.Text = "&Save";
             saveButton.UseVisualStyleBackColor = true;
+            saveButton.Click += saveButton_Click;
             // 
             // resetButton
             // 
@@ -89,11 +90,14 @@
             resetButton.TabIndex = 5;
             resetButton.Text = "&Reset";
             resetButton.UseVisualStyleBackColor = true;
+            resetButton.Click += resetButton_Click;
             // 
             // UpdateProfileForm
             // 
+            AcceptButton = saveButton;
             AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            CancelButton = resetButton;
             ClientSize = new System.Drawing.Size(382, 188);
             Controls.Add(resetButton);
             Controls.Add(saveButton);
@@ -105,6 +109,7 @@
             MinimumSize = new System.Drawing.Size(400, 235);
             Name = "UpdateProfileForm";
             Text = "Update Profile";
+            Load += UpdateProfileForm_Load;
             ResumeLayout(false);
             PerformLayout();
         }
