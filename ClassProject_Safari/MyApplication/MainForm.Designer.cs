@@ -60,33 +60,33 @@
             // updateProfileToolStripMenuItem
             // 
             updateProfileToolStripMenuItem.Name = "updateProfileToolStripMenuItem";
-            updateProfileToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            updateProfileToolStripMenuItem.Size = new System.Drawing.Size(207, 26);
             updateProfileToolStripMenuItem.Text = "&Update Profile";
             updateProfileToolStripMenuItem.Click += updateProfileToolStripMenuItem_Click;
             // 
             // changePasswordToolStripMenuItem
             // 
             changePasswordToolStripMenuItem.Name = "changePasswordToolStripMenuItem";
-            changePasswordToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            changePasswordToolStripMenuItem.Size = new System.Drawing.Size(207, 26);
             changePasswordToolStripMenuItem.Text = "&Change Password";
             changePasswordToolStripMenuItem.Click += changePasswordToolStripMenuItem_Click;
             // 
             // toolStripSeparator1
             // 
             toolStripSeparator1.Name = "toolStripSeparator1";
-            toolStripSeparator1.Size = new System.Drawing.Size(221, 6);
+            toolStripSeparator1.Size = new System.Drawing.Size(204, 6);
             // 
             // logoutToolStripMenuItem
             // 
             logoutToolStripMenuItem.Name = "logoutToolStripMenuItem";
-            logoutToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            logoutToolStripMenuItem.Size = new System.Drawing.Size(207, 26);
             logoutToolStripMenuItem.Text = "&Logout";
             logoutToolStripMenuItem.Click += logoutToolStripMenuItem_Click;
             // 
             // exitToolStripMenuItem
             // 
             exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            exitToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            exitToolStripMenuItem.Size = new System.Drawing.Size(207, 26);
             exitToolStripMenuItem.Text = "E&xit";
             exitToolStripMenuItem.Click += exitToolStripMenuItem_Click;
             // 
@@ -100,8 +100,9 @@
             // usersToolStripMenuItem
             // 
             usersToolStripMenuItem.Name = "usersToolStripMenuItem";
-            usersToolStripMenuItem.Size = new System.Drawing.Size(127, 26);
+            usersToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             usersToolStripMenuItem.Text = "&Users";
+            usersToolStripMenuItem.Click += usersToolStripMenuItem_Click;
             // 
             // MainForm
             // 

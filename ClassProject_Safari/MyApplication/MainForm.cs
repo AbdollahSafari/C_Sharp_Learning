@@ -59,11 +59,24 @@ public partial class MainForm : Infrastructure.BaseForm
     {
         if (MyChangePasswordForm == null || MyChangePasswordForm.IsDisposed)
         {
-            MyChangePasswordForm = new ChangePasswordForm() 
+            MyChangePasswordForm = new ChangePasswordForm()
             {
                 MdiParent = this,
             };
             MyChangePasswordForm.Show();
+        }
+    }
+
+    private Admin.UsersForm? MyUsersForm { get; set; }
+    private void usersToolStripMenuItem_Click(object sender, EventArgs e)
+    {
+        if (MyUsersForm == null || MyUsersForm.IsDisposed)
+        {
+            MyUsersForm = new Admin.UsersForm()
+            {
+                MdiParent = this,
+            };
+            MyUsersForm.Show();
         }
     }
 }
