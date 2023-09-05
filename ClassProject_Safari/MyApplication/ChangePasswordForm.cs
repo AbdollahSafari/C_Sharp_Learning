@@ -98,7 +98,9 @@ public partial class ChangePasswordForm : Infrastructure.BaseForm
             }
             foundedUser.Password = newPasswordTextBox.Text;
             databaseContext.SaveChanges();
+            System.Windows.Forms.MessageBox.Show("Your password hes been successfuly updated.");
             Infrastructure.Utility.AauthenticatedUser = foundedUser;
+            Close();
         }
         catch (Exception ex)
         {
@@ -111,8 +113,6 @@ public partial class ChangePasswordForm : Infrastructure.BaseForm
                 databaseContext.Dispose();
                 databaseContext = null;
             }
-            System.Windows.Forms.MessageBox.Show("Your password hes been successfuly updated.");
-            Close();
         }
 
     }
