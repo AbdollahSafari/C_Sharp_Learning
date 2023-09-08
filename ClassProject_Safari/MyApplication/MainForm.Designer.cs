@@ -96,6 +96,7 @@
             adminToolStripMenuItem.Name = "adminToolStripMenuItem";
             adminToolStripMenuItem.Size = new System.Drawing.Size(67, 24);
             adminToolStripMenuItem.Text = "&Admin";
+            adminToolStripMenuItem.Enabled = Infrastructure.Utility.AauthenticatedUser.IsAdmin;
             // 
             // usersToolStripMenuItem
             // 
