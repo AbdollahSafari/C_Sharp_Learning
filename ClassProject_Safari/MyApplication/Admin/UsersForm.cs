@@ -16,8 +16,14 @@ public partial class UsersForm : Infrastructure.BaseForm
     {
         InitializeComponent();
     }
+    
 
     private void searchButton_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void Search()
     {
 
     }
