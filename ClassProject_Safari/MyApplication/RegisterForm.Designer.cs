@@ -29,11 +29,11 @@
         private void InitializeComponent()
         {
             usernameLabel = new Dtat.Windows.Forms.Label();
+            usernameTextBox = new Dtat.Windows.Forms.TextBox();
             passwordLabel = new Dtat.Windows.Forms.Label();
+            passwordTextBox = new Dtat.Windows.Forms.TextBox();
             fullNameLabel = new Dtat.Windows.Forms.Label();
-            textBox1 = new Dtat.Windows.Forms.TextBox();
-            textBox2 = new Dtat.Windows.Forms.TextBox();
-            textBox3 = new Dtat.Windows.Forms.TextBox();
+            fullNameTextBox = new Dtat.Windows.Forms.TextBox();
             registerButton = new Dtat.Windows.Forms.Button();
             resetButton = new Dtat.Windows.Forms.Button();
             loginButton = new Dtat.Windows.Forms.Button();
@@ -45,109 +45,114 @@
             usernameLabel.AutoSize = true;
             usernameLabel.Location = new System.Drawing.Point(12, 9);
             usernameLabel.Name = "usernameLabel";
-            usernameLabel.Size = new System.Drawing.Size(60, 15);
+            usernameLabel.Size = new System.Drawing.Size(75, 20);
             usernameLabel.TabIndex = 0;
             usernameLabel.Text = "&Username";
+            // 
+            // usernameTextBox
+            // 
+            usernameTextBox.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
+            usernameTextBox.Location = new System.Drawing.Point(94, 6);
+            usernameTextBox.Name = "usernameTextBox";
+            usernameTextBox.Size = new System.Drawing.Size(394, 27);
+            usernameTextBox.TabIndex = 1;
             // 
             // passwordLabel
             // 
             passwordLabel.AutoSize = true;
-            passwordLabel.Location = new System.Drawing.Point(12, 38);
+            passwordLabel.Location = new System.Drawing.Point(12, 42);
             passwordLabel.Name = "passwordLabel";
-            passwordLabel.Size = new System.Drawing.Size(57, 15);
+            passwordLabel.Size = new System.Drawing.Size(70, 20);
             passwordLabel.TabIndex = 2;
             passwordLabel.Text = "&Password";
+            // 
+            // passwordTextBox
+            // 
+            passwordTextBox.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
+            passwordTextBox.Location = new System.Drawing.Point(94, 39);
+            passwordTextBox.Name = "passwordTextBox";
+            passwordTextBox.Size = new System.Drawing.Size(394, 27);
+            passwordTextBox.TabIndex = 3;
+            passwordTextBox.UseSystemPasswordChar = true;
             // 
             // fullNameLabel
             // 
             fullNameLabel.AutoSize = true;
-            fullNameLabel.Location = new System.Drawing.Point(12, 67);
+            fullNameLabel.Location = new System.Drawing.Point(12, 75);
             fullNameLabel.Name = "fullNameLabel";
-            fullNameLabel.Size = new System.Drawing.Size(61, 15);
+            fullNameLabel.Size = new System.Drawing.Size(76, 20);
             fullNameLabel.TabIndex = 4;
             fullNameLabel.Text = "&Full Name";
             // 
-            // textBox1
+            // fullNameTextBox
             // 
-            textBox1.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
-            textBox1.Location = new System.Drawing.Point(79, 6);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new System.Drawing.Size(318, 23);
-            textBox1.TabIndex = 1;
-            // 
-            // textBox2
-            // 
-            textBox2.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
-            textBox2.Location = new System.Drawing.Point(79, 35);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new System.Drawing.Size(318, 23);
-            textBox2.TabIndex = 3;
-            // 
-            // textBox3
-            // 
-            textBox3.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
-            textBox3.Location = new System.Drawing.Point(79, 64);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new System.Drawing.Size(318, 23);
-            textBox3.TabIndex = 5;
+            fullNameTextBox.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
+            fullNameTextBox.Location = new System.Drawing.Point(94, 72);
+            fullNameTextBox.Name = "fullNameTextBox";
+            fullNameTextBox.Size = new System.Drawing.Size(394, 27);
+            fullNameTextBox.TabIndex = 5;
             // 
             // registerButton
             // 
-            registerButton.Location = new System.Drawing.Point(79, 93);
+            registerButton.Location = new System.Drawing.Point(94, 105);
             registerButton.Name = "registerButton";
-            registerButton.Size = new System.Drawing.Size(75, 23);
+            registerButton.Size = new System.Drawing.Size(94, 29);
             registerButton.TabIndex = 6;
-            registerButton.Text = "&Register";
+            registerButton.Text = "Re&gister";
             registerButton.UseVisualStyleBackColor = true;
+            registerButton.Click += registerButton_Click;
             // 
             // resetButton
             // 
-            resetButton.Location = new System.Drawing.Point(160, 93);
+            resetButton.Location = new System.Drawing.Point(194, 105);
             resetButton.Name = "resetButton";
-            resetButton.Size = new System.Drawing.Size(75, 23);
+            resetButton.Size = new System.Drawing.Size(94, 29);
             resetButton.TabIndex = 7;
             resetButton.Text = "&Reset";
             resetButton.UseVisualStyleBackColor = true;
+            resetButton.Click += resetButton_Click;
             // 
             // loginButton
             // 
-            loginButton.Location = new System.Drawing.Point(241, 93);
+            loginButton.Location = new System.Drawing.Point(294, 105);
             loginButton.Name = "loginButton";
-            loginButton.Size = new System.Drawing.Size(75, 23);
+            loginButton.Size = new System.Drawing.Size(94, 29);
             loginButton.TabIndex = 8;
             loginButton.Text = "&Login";
             loginButton.UseVisualStyleBackColor = true;
+            loginButton.Click += loginButton_Click;
             // 
             // exitButton
             // 
-            exitButton.Location = new System.Drawing.Point(322, 93);
+            exitButton.Location = new System.Drawing.Point(394, 105);
             exitButton.Name = "exitButton";
-            exitButton.Size = new System.Drawing.Size(75, 23);
+            exitButton.Size = new System.Drawing.Size(94, 29);
             exitButton.TabIndex = 9;
             exitButton.Text = "E&xit";
             exitButton.UseVisualStyleBackColor = true;
+            exitButton.Click += exitButton_Click;
             // 
             // RegisterForm
             // 
             AcceptButton = registerButton;
-            AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             CancelButton = exitButton;
-            ClientSize = new System.Drawing.Size(401, 120);
+            ClientSize = new System.Drawing.Size(491, 138);
             Controls.Add(exitButton);
             Controls.Add(loginButton);
             Controls.Add(resetButton);
             Controls.Add(registerButton);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(fullNameTextBox);
             Controls.Add(fullNameLabel);
+            Controls.Add(passwordTextBox);
             Controls.Add(passwordLabel);
+            Controls.Add(usernameTextBox);
             Controls.Add(usernameLabel);
-            MaximumSize = new System.Drawing.Size(800, 159);
-            MinimumSize = new System.Drawing.Size(417, 159);
+            MaximumSize = new System.Drawing.Size(800, 185);
+            MinimumSize = new System.Drawing.Size(509, 185);
             Name = "RegisterForm";
-            Text = "Register";
+            Text = "RegisterForm";
             ResumeLayout(false);
             PerformLayout();
         }
@@ -155,11 +160,11 @@
         #endregion
 
         private Dtat.Windows.Forms.Label usernameLabel;
+        private Dtat.Windows.Forms.TextBox usernameTextBox;
         private Dtat.Windows.Forms.Label passwordLabel;
+        private Dtat.Windows.Forms.TextBox passwordTextBox;
         private Dtat.Windows.Forms.Label fullNameLabel;
-        private Dtat.Windows.Forms.TextBox textBox1;
-        private Dtat.Windows.Forms.TextBox textBox2;
-        private Dtat.Windows.Forms.TextBox textBox3;
+        private Dtat.Windows.Forms.TextBox fullNameTextBox;
         private Dtat.Windows.Forms.Button registerButton;
         private Dtat.Windows.Forms.Button resetButton;
         private Dtat.Windows.Forms.Button loginButton;
