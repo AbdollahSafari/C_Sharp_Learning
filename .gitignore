@@ -10,3 +10,7 @@ bin
 obj
 ClassProject_Safari/Dtat/obj/
 /ClassProject_Safari/Dtat/obj
+ClassProject_Safari/Dtat/obj/Dtat.csproj.nuget.dgspec.json
+ClassProject_Safari/Dtat/obj/Dtat.csproj.nuget.g.props
+ClassProject_Safari/Dtat/obj/project.assets.json
+ClassProject_Safari/Dtat/obj/project.nuget.cache
